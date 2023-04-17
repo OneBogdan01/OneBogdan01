@@ -6,6 +6,6 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoT3zI7hQSNbzeIqHS5ZBnQ?label=Youtube&style=social)
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=OneBogdan01&show_icons=true&theme=dark" 
+   src="https://github-readme-stats.vercel.app/api?username=OneBogdan01&show_icons=true&theme=dark"
 />
 <!--START_SECTION:activity-->
