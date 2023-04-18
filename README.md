@@ -8,7 +8,7 @@
    <hr/>
 
    <!--Social images !-->
-   <div align="center" width="100" box-sizing="border-box">
+   <div align="center" >
       <a href="https://www.youtube.com/@tycro_games"><img src="assets\yt_logo_mono_light.png" alt="My YouTube Channel"  style="max-width: 15%; max-height: 15%;"/></a>
       <a href="https://tycro-games.itch.io/"><img src="assets\itchio-textless-black.svg" alt="My itch.io page"  style="max-width: 15%; max-height: 15%;"/></a>
       <img  src="https://github-readme-stats.vercel.app/api?username=OneBogdan01&show_icons=true&theme=dark"/>
