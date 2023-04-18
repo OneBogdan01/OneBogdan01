@@ -12,8 +12,8 @@
       <div  style="padding: 10px;display: inline-block;">
          <a href="https://www.youtube.com/@tycro_games"><img src="assets\youtube_social_icon_red.png" alt="My YouTube Channel"/> </a>
       </div>
-      <div  style="padding: 10px 25px;display: inline-block;">
-         <a href="https://tycro-games.itch.io/"><img src="assets\app-icon.png" alt="My itch.io page" height="90"/></a>
+      <div  style="padding: 10px 25px;display: inline-block; height: 90px;">
+         <a href="https://tycro-games.itch.io/"><img src="assets\app-icon.png" alt="My itch.io page"/></a>
       </div>
       <br>
       <hr>
