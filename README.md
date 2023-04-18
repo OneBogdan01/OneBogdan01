@@ -9,10 +9,10 @@
 
    <!--Social images !-->
    <div align="center"  >
-      <div  style="padding: 10px;display: inline-block; height:100%;">
+      <div  style="padding: 10px;display: inline; height:100%;">
          <a href="https://www.youtube.com/@tycro_games"><img src="assets\youtube_social_icon_red.png" alt="My YouTube Channel"/> </a>
       </div>
-      <div  style="padding: 10px;display: inline-block; height:100%">
+      <div  style="padding: 10px;display: inline; height:100%">
          <a href="https://tycro-games.itch.io/"><img src="assets\app-icon.png" alt="My itch.io page" height="90"/></a>
       </div>
       <br>
