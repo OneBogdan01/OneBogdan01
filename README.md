@@ -9,7 +9,7 @@
 
    <!--Social images !-->
    <div align="center"; >
-         <a href="https://www.youtube.com/@tycro_games"><img src="assets\youtube_social_icon_red.png" alt="My YouTube Channel"/> </a>
+         <a href="https://www.youtube.com/@tycro_games"><img src="assets\youtube_social_icon_red.png" alt="My YouTube Channel"/></a>
          <a href="https://tycro-games.itch.io/"><img src="assets\app-icon.png" alt="My itch.io page" height="90"/></a>
       <br>
       <hr>
