@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> <b>Game developer</b> interested in simulation, strategy and indie games! also I enjoy working on my own engine in my free time.</h1>
+   <h1> <b>Game developer</b> interested in simulation, strategy and indie games! I also enjoy working on my own engine in my free time.</h1>
 
    <div align="center">
       <h3>You can try any of my games and prototypes on my <a href="https://tycro-games.itch.io/">itch.io</a> page below.</h3>
